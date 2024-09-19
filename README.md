@@ -31,14 +31,12 @@ conda activate myenv
 ```
 pip install -r requirements.txt
 ```
-## Additional Dependencies
+## Download Large File
 
-Due to size limitations, some dependencies are hosted on Google Drive.
-You can download them using the following command:
+Due to size constraints, the large file can be downloaded from the following link:
 
-```bash
-wget 'https://drive.google.com/file/d/1GmFmpmd04S2MFCbdIIHbzcFTUm2W34gS/view?usp=sharing
-```
+[Download large file](https://drive.google.com/file/d/1GmFmpmd04S2MFCbdIIHbzcFTUm2W34gS/view?usp=sharing)
+
 ## Run application
 ```
 streamlit run main.py
