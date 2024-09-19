@@ -31,7 +31,7 @@ conda activate myenv
 ```
 pip install -r requirements.txt
 ```
-## Download Large File
+## Additional Dependencies
 
 Due to size constraints, the large file can be downloaded from the following link:
 
