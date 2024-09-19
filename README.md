@@ -1,7 +1,7 @@
 
 # Movie Recommendation System
 
-This project precommends movies based on given movie.
+This project recommends movies based on given movie.
 
 
 ## Deployment
@@ -30,6 +30,14 @@ conda activate myenv
 ## Install Dependencies
 ```
 pip install -r requirements.txt
+```
+## Additional Dependencies
+
+Due to size limitations, some dependencies are hosted on Google Drive.
+You can download them using the following command:
+
+```bash
+wget 'https://drive.google.com/file/d/1GmFmpmd04S2MFCbdIIHbzcFTUm2W34gS/view?usp=sharing
 ```
 ## Run application
 ```
